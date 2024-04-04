@@ -6,6 +6,6 @@ A small person who is always looking for big and challenging things!
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/quydx)
 
 **ℹ About me**  
-- 💼 Big Data Lead at [VNPT Innovation Center](https://icenter.ai/vi)  
+- 💼 Work at [VNPT Innovation Center](https://icenter.ai/vi)  
 - 📫 quybulu@gmail.com  
 
